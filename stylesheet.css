@@ -1,0 +1,88 @@
+.heading {
+	color: white;
+	background-color: #B00000;
+	padding: 2px;
+}
+
+#name {
+	font-size: 30px;
+	color: #B00000;
+
+}
+
+#address {
+	color: black;
+}
+
+body {
+	font-family: Verdana, serif;
+}
+
+hr {
+	border-color: #E00000;
+}
+
+a:link {
+	color: #E00000;
+}
+
+a:hover {
+	color: #B00000;
+}
+
+a:visited {
+	color: #000099;
+}
+
+span {
+	font-weight: bold;
+}
+
+.company {
+	font-style: italic;
+}
+
+body {
+	border-style: solid;
+	border-width: 5px;
+	border-color: #B00000;
+	padding: 7px;
+	
+}
+#box_1 {
+
+	background-color: #B00000;
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+	float: left;
+}	
+
+#box_2 {
+
+	background-color: #c90000;
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+	float: left;
+}
+
+#box_3 {
+
+	background-color: #e20000;
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+	float: left;
+}
+
+#box_4 {
+
+	background-color: #ee7c7c;
+	height: 20px;
+	width: 20px;
+	display: inline-block;
+	float: left;
+}
+
+
